@@ -16,10 +16,6 @@
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB
 - 📫 <b>Languages</b> : JavaScript, TypeScript, CSS/SCSS/LESS, PHP, Python
 
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=smartdev1010&column=7&theme=onedark"/>
-</p>
-
 ## Languages & Tools
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -61,7 +57,7 @@
 </h2>
 <br />
   
-  <a href="mailto:serhiihryhorov@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/outlook-new.png"  width="50" /></a>
+  <a href="mailto:serhiihryhorov@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/117562/microsoft-outlook-2019"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/IbOSorFA5wRA" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
