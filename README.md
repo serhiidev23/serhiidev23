@@ -57,7 +57,7 @@
 </h2>
 <br />
   
-  <a href="mailto:serhiihryhorov@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/117562/microsoft-outlook-2019"  width="50" /></a>
+  <a href="mailto:serhiihryhorov@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/microsoft-outlook-2019.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/IbOSorFA5wRA" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
