@@ -10,7 +10,7 @@
 
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js
+- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, Node.js / Express, Python / Django, Flask
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB
